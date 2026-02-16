@@ -38,7 +38,7 @@ Add this to your pubspec.yaml:
 dependencies:
   super_image_view:
     git:
-      url: https://github.com/yourusername/super_image_view.git
+      url: https://github.com/Excelsior-Technologies-Community/flutter_super_image_view/tree/stage
 ```
 then run:
 ```
