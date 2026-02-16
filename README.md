@@ -9,7 +9,7 @@ It helps you avoid writing complex gesture logic and quickly add a professional 
 ## ✨ Feature Preview
 
 - 🔍 Pinch to zoom
-- 👆 Double tap zoom
+-👆 Double tap zoom
 - 🧭 Pan & drag image
 - 🎞 Hero animation support
 - 🌙 Dark fullscreen background
